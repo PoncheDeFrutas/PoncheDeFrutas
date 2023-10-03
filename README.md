@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Josue Guevara!
 
-<!--
-**PoncheDeFrutas/PoncheDeFrutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm currently pursuing a degree in Systems Engineering at Universidad de San Carlos de Guatemala, located in Guatemala. Additionally, I'm a certified perito with expertise in industrial electronics and have experience working with PLCs. I have a passion for Systems Engineering and enjoy working with microcontrollers such as Arduino and ESP32. I'm proficient in programming languages including C++, Python, and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **Bachelor of Science in Systems Engineering**
+  - [Universidad de San Carlos de Guatemala](https://www.usac.edu.gt/), Guatemala
+  - Expected Graduation Date: [11, 2026]
+
+## Experience
+
+- **Certified Perito in Industrial Electronics**
+  - Description of your experience and expertise in industrial electronics.
+
+## Skills
+
+- Programming Languages: C++, Python, Java
+- Microcontrollers: Arduino, ESP32
+
+## Contact
+
+- Email: [josue_guevara@eoutlook.com](josue_guevara@eoutlook.com)
