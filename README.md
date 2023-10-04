@@ -10,11 +10,6 @@ I'm currently pursuing a degree in Systems Engineering at Universidad de San Car
   - [Universidad de San Carlos de Guatemala](https://www.usac.edu.gt/), Guatemala
   - Expected Graduation Date: [11, 2026]
 
-## Experience
-
-- **Certified Perito in Industrial Electronics**
-  - Description of your experience and expertise in industrial electronics.
-
 ## Skills
 
 - Programming Languages: C++, Python, Java
