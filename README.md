@@ -17,4 +17,4 @@ I'm currently pursuing a degree in Systems Engineering at Universidad de San Car
 
 ## Contact
 
-- Email: [josue_guevara@eoutlook.com](josue_guevara@eoutlook.com)
+- Email: [josue_guevara@outlook.com](josue_guevara@outlook.com)
