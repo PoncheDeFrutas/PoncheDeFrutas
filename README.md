@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Josue Guevara
 
-<!--
-**PoncheDeFrutas/PoncheDeFrutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala, con especialización en electrónica industrial. Estoy apasionado por el desarrollo de software, y actualmente trabajo con los siguientes lenguajes de programación:
 
-Here are some ideas to get you started:
+- **Java**
+- **JavaScript**
+- **TypeScript**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encanta seguir aprendiendo nuevas tecnologías y mejorar mis habilidades en el desarrollo de software.
+
+## Tecnologías y Herramientas
+- **Lenguajes:** Java, JavaScript, Python, TypeScript
+- **Herramientas:** Git, GitHub, VSCode, IntelliJ IDEA
+
+## Estadísticas de código
+
+### Tiempo de codificación en WakaTime
+![WakaTime](https://wakatime.com/share/@dd9cbf79-b76d-4202-aae2-be6bff8a804e/35b23b3b-069c-486b-9540-bf363fb0d25a.svg)
+
