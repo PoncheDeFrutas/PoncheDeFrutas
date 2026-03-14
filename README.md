@@ -20,6 +20,19 @@ Systems Engineering student focused on **backend development, systems programmin
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PoncheDeFrutas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoncheDeFrutas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/PoncheDeFrutas/PoncheDeFrutas/output/snake.svg" alt="Snake animation" />
+
+---
+
 ## Tech Stack
 
 <div align="left">
@@ -58,6 +71,8 @@ Systems Engineering student focused on **backend development, systems programmin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="40" alt="aarch64 logo"  />
 </div>
 
 ---
