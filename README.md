@@ -85,14 +85,6 @@ Systems Engineering student focused on **backend development, systems programmin
 | **[Viteplate](https://github.com/PoncheDeFrutas/Viteplate)**         | Production‑ready **React starter template** based on **Feature‑Sliced Design** with authentication, role‑based access, design system, and scalable architecture.                                                     | React · TypeScript · Vite · Tailwind · TanStack |
 
 
-## Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PoncheDeFrutas/PoncheDeFrutas/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PoncheDeFrutas/PoncheDeFrutas/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/PoncheDeFrutas/PoncheDeFrutas/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ---
 
 ## Development Activity
