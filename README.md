@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=PoncheDeFrutas&label=Profile%20Views&color=7c3aed&style=flat" alt="profile views" />
 </p>
 
-Systems Engineering student focused on **backend development, systems programming, IoT, and cloud infrastructure**. I enjoy building software that is **efficient, understandable, and close to the hardware and operating system**.
+Systems Engineering student focused on **backend development, systems programming, IoT, and cloud infrastructure**. I enjoy building software that is **efficient, understandable, and close to the hardware**.
 
 ---
 
@@ -79,11 +79,11 @@ Systems Engineering student focused on **backend development, systems programmin
 
 ## Featured Projects
 
-| Project                                                              | Description                                                                                                                                                                                                          | Tech                                            |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| **[ARQUI1_1S2026](https://github.com/PoncheDeFrutas/ARQUI1_1S2026)** | Educational repository for **Computer Architecture & Assembly** focused on **IoT with Raspberry Pi and ARM64 assembly**. Includes GPIO experiments, sensors/actuators interaction, and low‑level processor concepts. | Python · ARM64 · Raspberry Pi · IoT             |
-| **[Viteplate](https://github.com/PoncheDeFrutas/Viteplate)**         | Production‑ready **React starter template** based on **Feature‑Sliced Design** with authentication, role‑based access, design system, and scalable architecture.                                                     | React · TypeScript · Vite · Tailwind · TanStack |
-
+| Project                                                              | Description                                                                                                                |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------|
+| **[ARQUI1_1S2026](https://github.com/PoncheDeFrutas/ARQUI1_1S2026)** | Educational repository for **Computer Architecture & Assembly** focused on **IoT with Raspberry Pi and ARM64 assembly**. Includes teaching and student labs. |
+| **[Viteplate](https://github.com/PoncheDeFrutas/Viteplate)**         | Production‑ready **React starter template** based on **Feature‑Sliced Design** with authentication, role‑based access, and infrastructure tooling. |
+| **[StackScope](https://github.com/PoncheDeFrutas/StackScope)**       | StackScope is a VS Code extension for debugger-backed memory inspection.                                                    |
 
 ---
 
