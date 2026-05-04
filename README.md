@@ -14,6 +14,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=PoncheDeFrutas&label=Profile%20Views&color=7c3aed&style=flat-square" 
+    alt="Profile views" 
+  />
+</p>
+
 ---
 
 ## About Me
