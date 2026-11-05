@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josue-guevara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn de Josue Guevara" width="90" height="24" /></a>
-  <a href="https://github.com/PoncheDeFrutas"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub de PoncheDeFrutas" width="78" height="24" /></a>
+  <a href="https://www.linkedin.com/in/josue-guevara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Josue Guevara" height="24" /></a>
+  <a href="https://github.com/PoncheDeFrutas"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub de PoncheDeFrutas" height="24" /></a>
 </p>
 
 ## Sobre mí
@@ -16,8 +16,9 @@ Desarrollo aplicaciones web y sistemas, con experiencia académica en frontend y
 
 ## Tecnologías y herramientas
 
+<h4 align="center">Lenguajes y desarrollo</h4>
+
 <p align="center">
-  <strong>Lenguajes y desarrollo</strong><br /><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" height="20" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="20" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" height="20" />
@@ -28,16 +29,18 @@ Desarrollo aplicaciones web y sistemas, con experiencia académica en frontend y
   <img src="https://img.shields.io/badge/APIs_REST-536174?style=flat-square" alt="APIs REST" height="20" />
 </p>
 
+<h4 align="center">Datos y pruebas</h4>
+
 <p align="center">
-  <strong>Datos y pruebas</strong><br /><br />
   <img src="https://img.shields.io/badge/MongoDB-376B47?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" height="20" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="20" />
   <img src="https://img.shields.io/badge/Cypress-234E52?style=flat-square&amp;logo=cypress&amp;logoColor=white" alt="Cypress" height="20" />
   <img src="https://img.shields.io/badge/E2E-536174?style=flat-square" alt="E2E" height="20" />
 </p>
 
+<h4 align="center">Herramientas y sistemas</h4>
+
 <p align="center">
-  <strong>Herramientas y sistemas</strong><br /><br />
   <img src="https://img.shields.io/badge/Git-B74C36?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" height="20" />
   <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" height="20" />
   <img src="https://img.shields.io/badge/Docker-246B9E?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" height="20" />
@@ -76,19 +79,27 @@ Desarrollo aplicaciones web y sistemas, con experiencia académica en frontend y
   </tr>
 </table>
 
-## Experiencia complementaria
-
-**Auxiliar de cátedra en USAC:** apoyo en laboratorios y revisión de proyectos en el ámbito académico.<br />
-**Pruebas de software en un proyecto académico:** participación en pruebas funcionales y E2E de un frontend con Cypress, verificando flujos de usuario, compras, productos y pedidos.
-
 ## Estadísticas de GitHub
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=PoncheDeFrutas&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide_title=true&amp;disable_animations=true&amp;locale=es&amp;card_width=340&amp;line_height=25&amp;theme=dark_github" />
-    <source media="(max-width: 480px) and (prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=PoncheDeFrutas&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide_title=true&amp;disable_animations=true&amp;locale=es&amp;card_width=340&amp;line_height=25&amp;theme=light_github" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=PoncheDeFrutas&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide_title=true&amp;disable_animations=true&amp;locale=es&amp;card_width=480&amp;line_height=25&amp;theme=dark_github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=PoncheDeFrutas&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide_title=true&amp;disable_animations=true&amp;locale=es&amp;card_width=480&amp;line_height=25&amp;theme=light_github" />
-    <img src="https://github-stats-extended.vercel.app/api?username=PoncheDeFrutas&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide_title=true&amp;disable_animations=true&amp;locale=es&amp;card_width=480&amp;line_height=25&amp;theme=light_github" alt="Estadísticas de GitHub de PoncheDeFrutas: estrellas, commits, pull requests, issues y repositorios con contribuciones." width="480" />
-  </picture>
+  <a href="https://github.com/PoncheDeFrutas" title="Estadísticas generales">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=PoncheDeFrutas&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;disable_animations=true&amp;locale=es&amp;card_width=395&amp;theme=dark_github&amp;custom_title=Estad%C3%ADsticas+generales&amp;title_color=58A6FF" />
+      <img src="https://github-stats-extended.vercel.app/api?username=PoncheDeFrutas&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;disable_animations=true&amp;locale=es&amp;card_width=395&amp;theme=light_github&amp;custom_title=Estad%C3%ADsticas+generales&amp;title_color=0969DA" alt="Estadísticas generales de GitHub de PoncheDeFrutas" height="190" />
+    </picture>
+  </a>
+  <a href="https://github.com/PoncheDeFrutas?tab=repositories" title="Lenguajes más utilizados">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=PoncheDeFrutas&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;disable_animations=true&amp;card_width=320&amp;theme=dark_github&amp;locale=es&amp;custom_title=Lenguajes+m%C3%A1s+utilizados&amp;title_color=58A6FF" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PoncheDeFrutas&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;disable_animations=true&amp;card_width=320&amp;theme=light_github&amp;locale=es&amp;custom_title=Lenguajes+m%C3%A1s+utilizados&amp;title_color=0969DA" alt="Lenguajes más utilizados en los repositorios de PoncheDeFrutas" height="190" />
+    </picture>
+  </a>
+</p>
+
+## Actividad de programación
+
+<p align="center">
+  <a href="https://wakatime.com/share/@dd9cbf79-b76d-4202-aae2-be6bff8a804e/3ee47741-34bb-4681-a616-4e23ff9409c6.svg">
+    <img src="https://wakatime.com/share/@dd9cbf79-b76d-4202-aae2-be6bff8a804e/3ee47741-34bb-4681-a616-4e23ff9409c6.svg" alt="Gráfico de actividad de programación de WakaTime" width="680" />
+  </a>
 </p>
